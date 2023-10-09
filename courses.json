@@ -1,0 +1,104 @@
+[
+  {
+    "code": "MAT-1000",
+    "name": "Calculus Enabler",
+    "credits": 4,
+    "subject": "mathematics"
+  },
+  {
+    "code": "TEST-2000",
+    "name": "Test 2000",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2001",
+    "name": "Test 2001",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2002",
+    "name": "Test 2002",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2003",
+    "name": "Test 2003",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2004",
+    "name": "Test 2004",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2005",
+    "name": "Test 2005",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2006",
+    "name": "Test 2006",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2007",
+    "name": "Test 2007",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2008",
+    "name": "Test 2008",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2009",
+    "name": "Test 2009",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2010",
+    "name": "Test 2010",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2011",
+    "name": "Test 2011",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2012",
+    "name": "Test 2012",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2013",
+    "name": "Test 2013",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2014",
+    "name": "Test 2014",
+    "credits": 4,
+    "subject": "test"
+  },
+  {
+    "code": "TEST-2015",
+    "name": "Test 2015",
+    "credits": 4,
+    "subject": "test"
+  }
+]
