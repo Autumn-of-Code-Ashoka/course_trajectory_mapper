@@ -1,3 +1,4 @@
 .minDivHeight {
   min-height: 50px !important;
+  height: 100% !important;
 }
