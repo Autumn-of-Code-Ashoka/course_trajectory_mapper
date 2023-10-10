@@ -48,7 +48,7 @@ async function updateCourses() {
     div.setAttribute('id', course.code);
 
     const div2 = document.createElement('div');
-    div2.classList.add('border', 'border-black', 'my-1', 'py-2', 'rounded-1');
+    div2.classList.add('courseInfo');
 
     const courseName = document.createElement('h5');
     courseName.classList.add('text-center', 'm-0');

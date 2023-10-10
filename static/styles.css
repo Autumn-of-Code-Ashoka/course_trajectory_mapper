@@ -2,3 +2,8 @@
   min-height: 50px !important;
   height: 100% !important;
 }
+
+.courseInfo {
+  /* Add Styles */
+  border-radius: 2px;
+}
