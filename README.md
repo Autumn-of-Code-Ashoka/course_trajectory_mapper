@@ -55,7 +55,7 @@ Contributions to the Course Trajectory Mapper project are welcome! If you would 
 
 - Install the necessary dependencies by running ```pip install -r requirements.txt.```
 
-- Run the application using ```python app.py```
+- Run the application using ```python trajectory.py```
 
 - Access the application through your web browser at ```http://localhost:5000.```
     
