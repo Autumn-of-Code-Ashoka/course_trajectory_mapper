@@ -1,0 +1,22 @@
+[
+    {
+        "major": "Computer Science", 
+        "credits": "144"
+    },
+    {
+        "major": "Chemistry", 
+        "credits": "124"
+    },
+    {
+        "major": "Biology", 
+        "credits": "144"
+    },
+    {
+        "major": "Physics", 
+        "credits": "136"
+    },
+    {
+        "major": "Biology", 
+        "credits": "120"
+    }
+]
